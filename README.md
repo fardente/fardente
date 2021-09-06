@@ -4,12 +4,16 @@
 
 I love to work hands-on to create elegant solutions for complex problems (sometimes the other way around). Having implemented complex natural language processing and machine learning algorithms I like the flexibility web technologies offer to build practical things that allow for a creative process. I have experience working for a variety of clients from big corporations to public service providers. 
 
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> and ** GSAP **
+- 🌱 I’m currently learning ** TypeScript ** and ** GSAP **
 - 👯 I’m looking for entry level jobs as a developer in ** Berlin **
 
 ## Tech Stack
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 <!--
 **fardente/fardente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
