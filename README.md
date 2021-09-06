@@ -2,12 +2,14 @@
 
 ### I am a full stack developer with a background in computational linguistics / natural language processing and IT management consulting.
 
-I love to work hands-on to create elegant solutions for complex problems (sometimes the other way around). Having implemented complex natural language processing and machine learning algorithms I like the flexibility web technologies offer to build practical things that allow for a creative process. I have experience working for a variety of clients from big corporations to public service providers. 
+I love to work hands-on to create elegant solutions for complex problems (sometimes the other way around). Having implemented complex natural language processing and machine learning algorithms I like the flexibility web technologies offer to build practical things that allow for a creative process. I have experience working for a variety of clients from big corporations to public service providers.
+
+I started coding around 1997 with QBasic. From there started building websites using **PHP + HTML / CSS / JS** (and sometimes Flash :skull:). At university I learned **Java** and **Python**. I love doing things the pythonic way, but I'm amazed at how far JavaScript has come in the past 2 decades and developed a deep fondness for it during my time at the Full Stack Web Development Bootcamp at **SPICED Academy** in Berlin.
 
 - 🌱 I’m currently learning **TypeScript** and **GSAP**
 - 👯 I’m looking for entry level jobs as a developer in **Berlin**
 
-## Tech Stack
+## Stack
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
