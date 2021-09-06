@@ -4,8 +4,8 @@
 
 I love to work hands-on to create elegant solutions for complex problems (sometimes the other way around). Having implemented complex natural language processing and machine learning algorithms I like the flexibility web technologies offer to build practical things that allow for a creative process. I have experience working for a variety of clients from big corporations to public service providers. 
 
-- 🌱 I’m currently learning ** TypeScript ** and ** GSAP **
-- 👯 I’m looking for entry level jobs as a developer in ** Berlin **
+- 🌱 I’m currently learning **TypeScript** and **GSAP**
+- 👯 I’m looking for entry level jobs as a developer in **Berlin**
 
 ## Tech Stack
 
