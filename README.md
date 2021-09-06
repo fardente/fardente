@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there :tada:
+
+I am a full stack developer with a background in computational linguistics and IT management consulting. I love to work hands-on to create elegant solutions for complex problems (sometimes the other way around). Having implemented complex natural language processing and machine learning algorithms I like the flexibility web technologies offer to build practical things that allow for a creative process. I have experience working for a variety of clients from big corporations to public service providers. 
 
 <!--
 **fardente/fardente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
