@@ -21,6 +21,11 @@ I started coding around 1997 with QBasic. From there started building websites u
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
+## Feel free to reach out!
+<a href="https://www.linkedin.com/in/fernando-ardente">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <!--
 **fardente/fardente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
