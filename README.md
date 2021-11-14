@@ -4,9 +4,6 @@
 
 I started coding around 1997 with QBasic. From there I went on to building websites using **PHP + HTML / CSS / JS** (and sometimes Flash :skull:). At university I learned **Java** and **Python**. I love doing things the :snake: pythonic way, but I'm amazed at how far **JavaScript** has come in the past 2 decades and developed a deep fondness for it during my time at the Full Stack Web Development Bootcamp at **SPICED Academy** in Berlin.
 
-- 🌱 I’m currently learning **SVG-Animation** and **GSAP**
-- 👯 I’m looking for entry level jobs as a developer in **Berlin**
-
 ## Stack
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=REACT&logoColor=white"/><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
